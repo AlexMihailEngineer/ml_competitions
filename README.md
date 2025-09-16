@@ -6,7 +6,7 @@ This repository contains my solutions and experiments for various machine learni
 
 Here are the competitions currently in this repository:
 
-*   **Kaggle - Drawing with LLMs:**
+*   **Kaggle - Drawing with LLMs (ongoing):**
     *   Notebook: `kaggle/Drawing_with_LLMs/Drawing_with_LLMs.ipynb`
     *   Description: Given a text prompt describing an image, generate Scalable Vector Graphics (SVG) code that renders it as an image as closely as possible.
     *   Kaggle Link: [Drawing with LLMs](https://www.kaggle.com/competitions/drawing-with-llms)
