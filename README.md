@@ -6,6 +6,11 @@ This repository contains my solutions and experiments for various machine learni
 
 Here are the competitions currently in this repository:
 
+*   **Kaggle - Drawing with LLMs:**
+    *   Notebook: `kaggle/Drawing_with_LLMs/Drawing_with_LLMs.ipynb`
+    *   Description: Given a text prompt describing an image, generate Scalable Vector Graphics (SVG) code that renders it as an image as closely as possible.
+    *   Kaggle Link: [Drawing with LLMs](https://www.kaggle.com/competitions/drawing-with-llms)
+
 *   **Kaggle - Mechanisms of Action (MoA) Prediction:**
     *   Notebook: `kaggle/Mechanisms_of_Action_Prediction/Mechanisms_of_Action_Prediction.ipynb`
     *   Description: Predict the mechanism of action of a drug based on molecular data.
