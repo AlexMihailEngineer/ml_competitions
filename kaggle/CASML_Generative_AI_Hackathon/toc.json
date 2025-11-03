@@ -1,0 +1,538 @@
+{
+    "Chapter 1 Introduction to Psychology": {
+        "page_start": 19,
+        "page_end": 46,
+        "subsections": {
+            "What Is Psychology?": {
+                "page_start": 20,
+                "page_end": 20,
+                "subsections": {}
+            },
+            "History of Psychology": {
+                "page_start": 21,
+                "page_end": 29,
+                "subsections": {}
+            },
+            "Contemporary Psychology": {
+                "page_start": 30,
+                "page_end": 37,
+                "subsections": {}
+            },
+            "Careers in Psychology": {
+                "page_start": 38,
+                "page_end": 46,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 2 Psychological Research": {
+        "page_start": 47,
+        "page_end": 82,
+        "subsections": {
+            "Why Is Research Important?": {
+                "page_start": 48,
+                "page_end": 52,
+                "subsections": {}
+            },
+            "Approaches to Research": {
+                "page_start": 53,
+                "page_end": 59,
+                "subsections": {}
+            },
+            "Analyzing Findings": {
+                "page_start": 60,
+                "page_end": 70,
+                "subsections": {}
+            },
+            "Ethics": {
+                "page_start": 71,
+                "page_end": 82,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 3 Biopsychology": {
+        "page_start": 83,
+        "page_end": 120,
+        "subsections": {
+            "Human Genetics": {
+                "page_start": 84,
+                "page_end": 89,
+                "subsections": {}
+            },
+            "Cells of the Nervous System": {
+                "page_start": 90,
+                "page_end": 95,
+                "subsections": {}
+            },
+            "Parts of the Nervous System": {
+                "page_start": 96,
+                "page_end": 97,
+                "subsections": {}
+            },
+            "The Brain and Spinal Cord": {
+                "page_start": 98,
+                "page_end": 108,
+                "subsections": {}
+            },
+            "The Endocrine System": {
+                "page_start": 109,
+                "page_end": 120,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 4 States of Consciousness": {
+        "page_start": 121,
+        "page_end": 156,
+        "subsections": {
+            "What Is Consciousness?": {
+                "page_start": 122,
+                "page_end": 125,
+                "subsections": {}
+            },
+            "Sleep and Why We Sleep": {
+                "page_start": 126,
+                "page_end": 128,
+                "subsections": {}
+            },
+            "Stages of Sleep": {
+                "page_start": 129,
+                "page_end": 132,
+                "subsections": {}
+            },
+            "Sleep Problems and Disorders": {
+                "page_start": 133,
+                "page_end": 137,
+                "subsections": {}
+            },
+            "Substance Use and Abuse": {
+                "page_start": 138,
+                "page_end": 145,
+                "subsections": {}
+            },
+            "Other States of Consciousness": {
+                "page_start": 146,
+                "page_end": 156,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 5 Sensation and Perception": {
+        "page_start": 157,
+        "page_end": 192,
+        "subsections": {
+            "Sensation versus Perception": {
+                "page_start": 158,
+                "page_end": 160,
+                "subsections": {}
+            },
+            "Waves and Wavelengths": {
+                "page_start": 161,
+                "page_end": 164,
+                "subsections": {}
+            },
+            "Vision": {
+                "page_start": 165,
+                "page_end": 172,
+                "subsections": {}
+            },
+            "Hearing": {
+                "page_start": 173,
+                "page_end": 175,
+                "subsections": {}
+            },
+            "The Other Senses": {
+                "page_start": 176,
+                "page_end": 179,
+                "subsections": {}
+            },
+            "Gestalt Principles of Perception": {
+                "page_start": 180,
+                "page_end": 192,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 6 Learning": {
+        "page_start": 193,
+        "page_end": 224,
+        "subsections": {
+            "What Is Learning?": {
+                "page_start": 194,
+                "page_end": 194,
+                "subsections": {}
+            },
+            "Classical Conditioning": {
+                "page_start": 195,
+                "page_end": 203,
+                "subsections": {}
+            },
+            "Operant Conditioning": {
+                "page_start": 204,
+                "page_end": 214,
+                "subsections": {}
+            },
+            "Observational Learning (Modeling)": {
+                "page_start": 215,
+                "page_end": 224,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 7 Thinking and Intelligence": {
+        "page_start": 225,
+        "page_end": 258,
+        "subsections": {
+            "What Is Cognition?": {
+                "page_start": 226,
+                "page_end": 229,
+                "subsections": {}
+            },
+            "Language": {
+                "page_start": 230,
+                "page_end": 233,
+                "subsections": {}
+            },
+            "Problem Solving": {
+                "page_start": 234,
+                "page_end": 239,
+                "subsections": {}
+            },
+            "What Are Intelligence and Creativity?": {
+                "page_start": 240,
+                "page_end": 242,
+                "subsections": {}
+            },
+            "Measures of Intelligence": {
+                "page_start": 243,
+                "page_end": 248,
+                "subsections": {}
+            },
+            "The Source of Intelligence": {
+                "page_start": 249,
+                "page_end": 258,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 8 Memory": {
+        "page_start": 259,
+        "page_end": 290,
+        "subsections": {
+            "How Memory Functions": {
+                "page_start": 260,
+                "page_end": 266,
+                "subsections": {}
+            },
+            "Parts of the Brain Involved with Memory": {
+                "page_start": 267,
+                "page_end": 270,
+                "subsections": {}
+            },
+            "Problems with Memory": {
+                "page_start": 271,
+                "page_end": 280,
+                "subsections": {}
+            },
+            "Ways to Enhance Memory": {
+                "page_start": 281,
+                "page_end": 290,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 9 Lifespan Development": {
+        "page_start": 291,
+        "page_end": 332,
+        "subsections": {
+            "What Is Lifespan Development?": {
+                "page_start": 292,
+                "page_end": 295,
+                "subsections": {}
+            },
+            "Lifespan Theories": {
+                "page_start": 296,
+                "page_end": 303,
+                "subsections": {}
+            },
+            "Stages of Development": {
+                "page_start": 304,
+                "page_end": 324,
+                "subsections": {}
+            },
+            "Death and Dying": {
+                "page_start": 325,
+                "page_end": 332,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 10 Emotion and Motivation": {
+        "page_start": 333,
+        "page_end": 370,
+        "subsections": {
+            "Motivation": {
+                "page_start": 334,
+                "page_end": 339,
+                "subsections": {}
+            },
+            "Hunger and Eating": {
+                "page_start": 340,
+                "page_end": 345,
+                "subsections": {}
+            },
+            "Sexual Behavior": {
+                "page_start": 346,
+                "page_end": 353,
+                "subsections": {}
+            },
+            "Emotion": {
+                "page_start": 354,
+                "page_end": 370,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 11 Personality": {
+        "page_start": 371,
+        "page_end": 410,
+        "subsections": {
+            "What Is Personality?": {
+                "page_start": 372,
+                "page_end": 373,
+                "subsections": {}
+            },
+            "Freud and the Psychodynamic Perspective": {
+                "page_start": 374,
+                "page_end": 379,
+                "subsections": {}
+            },
+            "Neo-Freudians: Adler, Erikson, Jung, and Horney": {
+                "page_start": 380,
+                "page_end": 384,
+                "subsections": {}
+            },
+            "Learning Approaches": {
+                "page_start": 385,
+                "page_end": 388,
+                "subsections": {}
+            },
+            "Humanistic Approaches": {
+                "page_start": 389,
+                "page_end": 389,
+                "subsections": {}
+            },
+            "Biological Approaches": {
+                "page_start": 390,
+                "page_end": 390,
+                "subsections": {}
+            },
+            "Trait Theorists": {
+                "page_start": 391,
+                "page_end": 395,
+                "subsections": {}
+            },
+            "Cultural Understandings of Personality": {
+                "page_start": 396,
+                "page_end": 397,
+                "subsections": {}
+            },
+            "Personality Assessment": {
+                "page_start": 398,
+                "page_end": 410,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 12 Social Psychology": {
+        "page_start": 411,
+        "page_end": 458,
+        "subsections": {
+            "What Is Social Psychology?": {
+                "page_start": 412,
+                "page_end": 417,
+                "subsections": {}
+            },
+            "Self-presentation": {
+                "page_start": 418,
+                "page_end": 420,
+                "subsections": {}
+            },
+            "Attitudes and Persuasion": {
+                "page_start": 421,
+                "page_end": 426,
+                "subsections": {}
+            },
+            "Conformity, Compliance, and Obedience": {
+                "page_start": 427,
+                "page_end": 433,
+                "subsections": {}
+            },
+            "Prejudice and Discrimination": {
+                "page_start": 434,
+                "page_end": 440,
+                "subsections": {}
+            },
+            "Aggression": {
+                "page_start": 441,
+                "page_end": 443,
+                "subsections": {}
+            },
+            "Prosocial Behavior": {
+                "page_start": 444,
+                "page_end": 458,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 13 Industrial-Organizational Psychology": {
+        "page_start": 459,
+        "page_end": 496,
+        "subsections": {
+            "What Is Industrial and Organizational Psychology?": {
+                "page_start": 460,
+                "page_end": 467,
+                "subsections": {}
+            },
+            "Industrial Psychology: Selecting and Evaluating Employees": {
+                "page_start": 468,
+                "page_end": 478,
+                "subsections": {}
+            },
+            "Organizational Psychology: The Social Dimension of Work": {
+                "page_start": 479,
+                "page_end": 488,
+                "subsections": {}
+            },
+            "Human Factors Psychology and Workplace Design": {
+                "page_start": 489,
+                "page_end": 496,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 14 Stress, Lifestyle, and Health": {
+        "page_start": 497,
+        "page_end": 548,
+        "subsections": {
+            "What Is Stress?": {
+                "page_start": 498,
+                "page_end": 507,
+                "subsections": {}
+            },
+            "Stressors": {
+                "page_start": 508,
+                "page_end": 513,
+                "subsections": {}
+            },
+            "Stress and Illness": {
+                "page_start": 514,
+                "page_end": 525,
+                "subsections": {}
+            },
+            "Regulation of Stress": {
+                "page_start": 526,
+                "page_end": 532,
+                "subsections": {}
+            },
+            "The Pursuit of Happiness": {
+                "page_start": 533,
+                "page_end": 548,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 15 Psychological Disorders": {
+        "page_start": 549,
+        "page_end": 610,
+        "subsections": {
+            "What Are Psychological Disorders?": {
+                "page_start": 550,
+                "page_end": 553,
+                "subsections": {}
+            },
+            "Diagnosing and Classifying Psychological Disorders": {
+                "page_start": 554,
+                "page_end": 556,
+                "subsections": {}
+            },
+            "Perspectives on Psychological Disorders": {
+                "page_start": 557,
+                "page_end": 559,
+                "subsections": {}
+            },
+            "Anxiety Disorders": {
+                "page_start": 560,
+                "page_end": 565,
+                "subsections": {}
+            },
+            "Obsessive-Compulsive and Related Disorders": {
+                "page_start": 566,
+                "page_end": 569,
+                "subsections": {}
+            },
+            "Posttraumatic Stress Disorder": {
+                "page_start": 570,
+                "page_end": 571,
+                "subsections": {}
+            },
+            "Mood and Related Disorders": {
+                "page_start": 572,
+                "page_end": 581,
+                "subsections": {}
+            },
+            "Schizophrenia": {
+                "page_start": 582,
+                "page_end": 585,
+                "subsections": {}
+            },
+            "Dissociative Disorders": {
+                "page_start": 586,
+                "page_end": 587,
+                "subsections": {}
+            },
+            "Disorders in Childhood": {
+                "page_start": 588,
+                "page_end": 593,
+                "subsections": {}
+            },
+            "Personality Disorders": {
+                "page_start": 594,
+                "page_end": 610,
+                "subsections": {}
+            }
+        }
+    },
+    "Chapter 16 Therapy and Treatment": {
+        "page_start": 611,
+        "page_end": 753,
+        "subsections": {
+            "Mental Health Treatment: Past and Present": {
+                "page_start": 612,
+                "page_end": 616,
+                "subsections": {}
+            },
+            "Types of Treatment": {
+                "page_start": 617,
+                "page_end": 628,
+                "subsections": {}
+            },
+            "Treatment Modalities": {
+                "page_start": 629,
+                "page_end": 632,
+                "subsections": {}
+            },
+            "Substance-Related and Addictive Disorders: A Special Case": {
+                "page_start": 633,
+                "page_end": 634,
+                "subsections": {}
+            },
+            "The Sociocultural Model and Therapy Utilization": {
+                "page_start": 635,
+                "page_end": 753,
+                "subsections": {}
+            }
+        }
+    }
+}
