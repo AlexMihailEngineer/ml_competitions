@@ -6,6 +6,11 @@ This repository contains my solutions and experiments for various machine learni
 
 Here are the competitions currently in this repository:
 
+*   **Kaggle - CASML - Generative AI Hackathon (ongoing):**
+    *   Notebook: `kaggle/CASML_Generative_AI_Hackathon/CASML_Generative_AI_Hackathon.ipynb`
+    *   Description: Participants are tasked with building a Retrieval-Augmented Generation (RAG) system capable of answering questions based on provided corpus.
+    *   Kaggle Link: [Drawing with LLMs](https://www.kaggle.com/competitions/casml-generative-ai-hackathon/)
+
 *   **Kaggle - Drawing with LLMs (ongoing):**
     *   Notebook: `kaggle/Drawing_with_LLMs/Drawing_with_LLMs.ipynb`
     *   Description: Given a text prompt describing an image, generate Scalable Vector Graphics (SVG) code that renders it as an image as closely as possible.
